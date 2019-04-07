@@ -1,0 +1,11 @@
+D:\src\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+D:\src\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+D:\src\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojAssemblyReference.cache
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+D:\src\AnalogClock\AnalogClock\obj\Debug\AnalogClock.AlarmSet.resources
